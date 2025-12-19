@@ -30,3 +30,5 @@ similarity_matrix = analyzer.compute_similarity("Hello, world! This is a test fo
 # Visualize
 plot_heatmap(similarity_matrix, title="GPT-2 Layer Similarity in Data Flow Space")
 ```
+<img width="1118" height="1007" alt="image" src="https://github.com/user-attachments/assets/813fab68-27a7-402b-b9d1-3e94e0f37191" />
+
